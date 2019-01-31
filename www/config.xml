@@ -23,5 +23,5 @@
         <allow-intent href="itms:*" />
         <allow-intent href="itms-apps:*" />
     </platform>
-    <icon src="/img/sapsymbol.png"></icon>
+    <icon src="/img/sapsymbol.png" height="57px" width="57px"></icon>
 </widget>
